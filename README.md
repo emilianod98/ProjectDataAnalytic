@@ -22,11 +22,11 @@ Mi proyecto fue realizado en dos etapas:
 
 Esta ultima etapa estaré explicando!<br>
 
-- La primer hoja del Dashboard echo en Power Bi, es la portada del proyecto.
+- La primer hoja del Dashboard pertenece a la portada del proyecto.
 
 <p align=center><img src=./src/PowerBi-Home.jpg><p>
 
-
+- En la segunda hoja, podemos observar distintos gráficos <br> con el fin de mostrar como se encuentran los distintos sectores del mercado bursátil.
 
 <p align=center><img src=./src/PowerBi-Sectors.jpg><p>
 
