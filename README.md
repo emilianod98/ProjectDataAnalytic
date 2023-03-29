@@ -57,8 +57,11 @@ Duró alrededor de un año, pero los mercados bursátiles de todo el mundo se re
 - *Pandemia de COVID-19 en 2020:*
 Fue una crisis global de salud pública que comenzó en Wuhan, China, en diciembre de 2019 y se propagó rápidamente por todo el mundo. La pandemia llevó a los gobiernos a imponer medidas de bloqueo y distanciamiento social, lo que afectó significativamente la economía.<br>
 La pandemia afectó a una amplia gama de sectores, incluyendo turismo, transporte, hostelería y entretenimiento. Muchas empresas experimentaron grandes pérdidas y muchos trabajadores perdieron sus empleos.<br>
-Los mercados bursátiles se recuperaron en gran medida a mediados de 2020, impulsados ​​por la esperanza de una vacuna y estímulos económicos.
+Los mercados bursátiles se recuperaron en gran medida a mediados de 2020, impulsados ​​por la esperanza de una vacuna y estímulos económicos.<br>
 
+Volviendo al ultimo grafico de la hoja de Sectors...
+- TABLA: que representa el promedio de cierre para cada Empresa.<br>
 
+La hoja "Companies", trata de mostrar información mas detallada sobre una empresa en particular.
 
 <p align=center><img src=./src/PowerBi-Companies.jpg><p>
