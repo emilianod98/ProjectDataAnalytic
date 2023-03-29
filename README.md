@@ -65,3 +65,21 @@ Volviendo al ultimo grafico de la hoja de Sectors...
 La hoja "Companies", trata de mostrar información mas detallada sobre una empresa en particular.
 
 <p align=center><img src=./src/PowerBi-Companies.jpg><p>
+
+- DATE: Es un filtro de tiempo, el cual me permite buscar información de una periodo o de una fecha especifica.
+- SECTORS: Es un filtro de los distintos sectores, con este filtro puedo ver información mas detalla de un sector en especifico.
+- TYPE INDUSTRY: Es otro filtro para los distintos typos de Industrias.
+- CLOSING HOPE: Es un medido del resultado del cierre, con el valor máximo y mínimo alcanzado durante ese día.
+- BEST INVESTMENT DAY: Representa el día de inversión en el que mas éxito tuvieron al cerrar las acciones.
+- GRAFICO DE TABLA: Representa el promedio de cierre para cada Empresa.
+- VOLUME: Tarjeta con volumen total de la Empresa filtrada.
+- GRAFICO DE LINEA: Muestra el desarrollo de la empresa en el mercado a lo largo del periodo seleccionado.<br>
+
+<h2 align=center>TECNOLOGIAS UTILIZADAS:</h2>
+
+<p align=center><img src=./src/Tecnologias.png><p>
+
+
+~~~
+PROYECTO REALIZADO POR DANIELE, EMILIANO GASTÓN.
+~~~
