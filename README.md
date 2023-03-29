@@ -29,16 +29,12 @@ Esta ultima etapa estaré explicando!<br>
 - En la segunda hoja, podemos observar distintos gráficos... <br> con el fin de mostrar como se encuentran los distintos sectores del mercado bursátil.
 
 <p align=center><img src=./src/PowerBi-Sectors.jpg><p>
-<style>
-.imagen {
-    display: flex; 
-    align-items: center;
-}
-</style>
-<div imagen>
-  <img src=./src/PowerBi-Sectors-Filtros.jpg>
+
+<div style="display: flex; align-items: center;">
+  <img src="./src/PowerBi-Sectors-Filtros.jpg" alt="Filtros del tiempo y de los distintos Sectores">
   <p>Filtros del tiempo y de los distintos Sectores.</p>
 </div>
+
 
 
 <p align=center><img src=./src/PowerBi-Companies.jpg><p>
