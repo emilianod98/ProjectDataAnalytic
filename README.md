@@ -79,6 +79,6 @@ La hoja "Companies", trata de mostrar información mas detallada sobre una empre
 
 <p align=center><img src=./src/Tecnologias.png><p><br>
 
-* Gracias por tomarse el tiempo de leer mi proyecto!<br> Cualquiere recomendación que tengas en mente es bien recibida... *
+*Gracias por tomarse el tiempo de leer mi proyecto!<br> Cualquiere recomendación que tengas en mente es bien recibida... *
 
 <h2 align=left>PROYECTO REALIZADO POR DANIELE, EMILIANO GASTÓN.</h2>
