@@ -15,6 +15,19 @@ Para este proyecto vamos a utilizar las base de datos del S&P 500 y  la librerí
 
 <h2 align=center>RESULTADO.</h2>
 
+Mi proyecto fue realizado en dos etapas:
+
+1. La primera fue la realización del EDA, la cual trabaje con en un notebook de Python(VSC).
+2. Y como segunda parte, fue la realización del DASHBOARD en Power Bi...
+
+Esta ultima etapa estaré explicando!<br>
+
+- La primer hoja del Dashboard echo en Power Bi, es la portada del proyecto.
+
 <p align=center><img src=./src/PowerBi-Home.jpg><p>
+
+
+
 <p align=center><img src=./src/PowerBi-Sectors.jpg><p>
+
 <p align=center><img src=./src/PowerBi-Companies.jpg><p>
